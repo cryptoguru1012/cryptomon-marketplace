@@ -7,5 +7,7 @@
     "type": "git",
     "url": "git+https://github.com/decentraland/marketplace.git"
   },
-  "dependencies": {}
+  "dependencies": {
+    "react-chartjs-2": "^2.9.0"
+  }
 }
