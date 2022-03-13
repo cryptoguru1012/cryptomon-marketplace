@@ -31,7 +31,7 @@
     padding: 25px 5px 5px 5px;
     height: auto;
   }
-  .block-container{
+  .block-container {
     width: 100%;
   }
 }
@@ -95,8 +95,10 @@
 }
 
 ._radar-container {
-  width: 540px;
-  padding: 30px;
+  /* width: 540px; */
+  width: 100%;
+  padding: 30px 30px 30px 100px;
+  /* margin-left: 60px; */
 }
 .block-container {
   width: 100% !important;

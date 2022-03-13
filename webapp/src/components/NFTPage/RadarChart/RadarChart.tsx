@@ -114,7 +114,7 @@ const RadarChart = (props: Props) => {
         },
         grid: {
           borderColor: "rgba(255, 0, 0, 1)",
-          color: "red",
+          color: "rgba(32,26,31,255)",
           backgroundColor: "rgba(255, 0, 0, 1)",
         },
         fill: true,
